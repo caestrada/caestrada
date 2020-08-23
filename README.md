@@ -9,6 +9,8 @@ Visit my page [here](https://caestrada.github.io/).
   * Do each algorithm in **JavaScript** and **C++**
 - [ ] [CS106B Programming Abstractions](http://web.stanford.edu/class/cs106b/)
   * Do problems in **C++** (if possible do them in **JavaScript**)
+- [ ] [Complete Intro to the Linux and the CLI](https://frontendmasters.com/courses/linux-command-line/)
+  * [My REPO]()
 
 ## TODO
 - [ ] [Complete Front-End Project: Build a Game](https://frontendmasters.com/courses/front-end-game/)
