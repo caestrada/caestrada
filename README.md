@@ -9,10 +9,12 @@ Visit my page [here](https://caestrada.github.io/).
   * Do each algorithm in **JavaScript** and **C++**
 - [ ] [CS106B Programming Abstractions](http://web.stanford.edu/class/cs106b/)
   * Do problems in **C++** (if possible do them in **JavaScript**)
-- [ ] [Complete Intro to the Linux and the CLI](https://frontendmasters.com/courses/linux-command-line/)
-  * [My REPO](https://github.com/caestrada/complete-into-to-linux-and-the-cli/blob/master/README.md)
+
 
 ## TODO
 - [ ] [Complete Front-End Project: Build a Game](https://frontendmasters.com/courses/front-end-game/)
 - [ ] Build Chrome Dino Game in my page
 
+## DONE
+- [X] [Complete Intro to the Linux and the CLI](https://frontendmasters.com/courses/linux-command-line/)
+  * [My REPO](https://github.com/caestrada/complete-into-to-linux-and-the-cli/blob/master/README.md)
