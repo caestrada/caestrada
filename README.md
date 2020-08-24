@@ -17,5 +17,4 @@ Visit my page [here](https://caestrada.github.io/).
 - [ ] Build Chrome Dino Game in my page
 
 ## DONE
-- [X] [Complete Intro to the Linux and the CLI](https://frontendmasters.com/courses/linux-command-line/)
-  * [My REPO](https://github.com/caestrada/complete-into-to-linux-and-the-cli/blob/master/README.md)
+- [X] [Complete Intro to the Linux and the CLI](https://github.com/caestrada/complete-into-to-linux-and-the-cli/blob/master/README.md)
