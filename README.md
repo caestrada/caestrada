@@ -9,6 +9,7 @@ Visit my page [here](https://caestrada.github.io/).
   * Do each algorithm in **JavaScript** and **C++**
 - [ ] [CS106B Programming Abstractions](http://web.stanford.edu/class/cs106b/)
   * Do problems in **C++** (if possible do them in **JavaScript**)
+- [ ] [Complete Intro To Containers](https://github.com/caestrada/complete-intro-to-containers)
 
 
 ## TODO
