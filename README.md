@@ -15,6 +15,11 @@ Visit my page [here](https://caestrada.github.io/).
 ## TODO
 - [ ] [Complete Front-End Project: Build a Game](https://frontendmasters.com/courses/front-end-game/)
 - [ ] Build Chrome Dino Game in my page
+- [ ] Frontend Masters - Getting a Front-End Developer Job
+- [ ] Frontend Masters - Complete Intro to React, v6
+- [ ] Frontend Masters - Form Handling in React Apps
+- [ ] Frontend Masters - Deno First Look
+- [ ] Frontend Masters - Functional JavaScript First teps
 
 ## DONE
 - [X] [Complete Intro To Containers](https://github.com/caestrada/complete-intro-to-containers)
