@@ -7,6 +7,7 @@ Visit my page [here](https://caestrada.github.io/).
   * Do each algorithm in **JavaScript** and **C++**
 - [ ] [CS106B Programming Abstractions](http://web.stanford.edu/class/cs106b/)
   * Do problems in **C++** (if possible do them in **JavaScript**)
+- [ ] [10 JS Projects in 10 Hours](https://www.youtube.com/watch?v=dtKciwk_si4&list=WL&index=2&t=83s)
 
 
 
