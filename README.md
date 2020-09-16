@@ -11,6 +11,8 @@ Visit my page [here](https://caestrada.github.io/).
 - [ ] [10 JS Projects in 10 Hours](https://www.youtube.com/watch?v=dtKciwk_si4&list=WL&index=2&t=83s)
 - [ ] [RayWenderlich - Your First Flutter App](https://www.raywenderlich.com/13739693-your-first-flutter-app)
   * Project [repo](https://github.com/caestrada/rw-bullseye-app)
+- [ ] [Intro to Next.js](https://hendrixer.github.io/nextjs-course/)
+  * repo
 
 
 
