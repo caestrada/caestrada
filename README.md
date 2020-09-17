@@ -13,6 +13,7 @@ Visit my page [here](https://caestrada.github.io/).
   * Project [repo](https://github.com/caestrada/rw-bullseye-app)
 - [ ] [Intro to Next.js](https://hendrixer.github.io/nextjs-course/)
   * [repo](https://github.com/caestrada/intro-to-nextjs)
+- [ ] [Cracking The Coding Interview 6th](https://github.com/caestrada/cpp-cracking-the-coding-interview-th)
 
 
 
