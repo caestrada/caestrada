@@ -3,8 +3,6 @@
 Visit my page [here](https://caestrada.github.io/).
 
 ## Active
-- [ ] [Four Semesters fo Computer Science in 5 Hours](https://frontendmasters.com/courses/computer-science/)
-  * Do each algorithm in **JavaScript** and **C++**
 - [ ] [CS106B Programming Abstractions](http://web.stanford.edu/class/cs106b/)
   * Do problems in **C++** (if possible do them in **JavaScript**)
   * Repo [link](https://github.com/caestrada/practicing-cpp/tree/master/cs106b)
@@ -18,6 +16,8 @@ Visit my page [here](https://caestrada.github.io/).
 
 
 ## TODO
+- [ ] [Four Semesters fo Computer Science in 5 Hours](https://frontendmasters.com/courses/computer-science/)
+  * Do each algorithm in **JavaScript** and **C++**
 - [ ] [Complete Front-End Project: Build a Game](https://frontendmasters.com/courses/front-end-game/)
 - [ ] Build Chrome Dino Game in my page
 - [ ] Frontend Masters - Getting a Front-End Developer Job
