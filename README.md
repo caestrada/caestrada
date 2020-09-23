@@ -10,7 +10,7 @@ Visit my page [here](https://caestrada.github.io/).
 - [ ] [Intro to Next.js](https://hendrixer.github.io/nextjs-course/)
   * [repo](https://github.com/caestrada/intro-to-nextjs)
 - [ ] [Cracking The Coding Interview 6th - C++](https://github.com/caestrada/cpp-cracking-the-coding-interview-th)
-- [ ] [Cracking The Coding Interview 6th - JavaScript]()
+- [ ] [Cracking The Coding Interview 6th - JavaScript](https://github.com/caestrada/js-cracking-the-coding-interview)
 
 
 
