@@ -1,6 +1,6 @@
 # Hello, world!
 
-// Visit my page [here](https://caestrada.github.io/).
+[![Carlos's github stats](https://github-readme-stats.vercel.app/api?username=caestrada)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Active
 - [ ] [CS106B Programming Abstractions](http://web.stanford.edu/class/cs106b/)
