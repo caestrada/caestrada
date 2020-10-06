@@ -1,6 +1,6 @@
 # Hello, world!
 
-Visit my page [here](https://caestrada.github.io/).
+// Visit my page [here](https://caestrada.github.io/).
 
 ## Active
 - [ ] [CS106B Programming Abstractions](http://web.stanford.edu/class/cs106b/)
