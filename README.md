@@ -1,7 +1,7 @@
 # Hello, world!
 
 [![Carlos's github stats](https://github-readme-stats.vercel.app/api?username=caestrada)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caestrada&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caestrada)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## Active
