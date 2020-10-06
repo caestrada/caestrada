@@ -8,6 +8,9 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=caestrada" />
 </a>
 
+![](https://komarev.com/ghpvc/?username=caestrada)
+
+
 
 ## Active
 - [ ] [CS106B Programming Abstractions](http://web.stanford.edu/class/cs106b/)
