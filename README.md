@@ -14,6 +14,7 @@
 
 ## Active
 - [ ] [Serverless React with AWS Amplify - The Complete Guide](https://www.udemy.com/course/serverless-react-with-aws-amplify/learn/lecture/13105906#overview)
+  * Repo [Link](https://github.com/caestrada/amplify-notetaker)
 - [ ] [CS106B Programming Abstractions](http://web.stanford.edu/class/cs106b/)
   * Do problems in **C++** (if possible do them in **JavaScript**)
   * Repo [link](https://github.com/caestrada/practicing-cpp/tree/master/cs106b)
