@@ -10,7 +10,9 @@
 
 ![](https://komarev.com/ghpvc/?username=caestrada)
 
-
+## Projects
+* [Fitness Web App](https://github.com/caestrada/fitness-web)
+* [Fitness Mobile App]()
 
 ## Active
 - [ ] [CS106B Programming Abstractions](http://web.stanford.edu/class/cs106b/)
