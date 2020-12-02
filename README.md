@@ -15,6 +15,8 @@
 * [Fitness Mobile App]()
 
 ## Active
+- [ ] [Serverless React with AWS Amplify - The Complete Guide (Notetaker App)](https://www.udemy.com/course/serverless-react-with-aws-amplify/learn/lecture/13105906#overview)
+  * - [x] Repo [Notetaker App](https://github.com/caestrada/amplify-notetaker)
 - [ ] [CS106B Programming Abstractions](http://web.stanford.edu/class/cs106b/)
   * Do problems in **C++** (if possible do them in **JavaScript**)
   * Repo [link](https://github.com/caestrada/practicing-cpp/tree/master/cs106b)
@@ -39,8 +41,6 @@
 - [ ] Frontend Masters - Functional JavaScript First teps
 
 ## DONE
-- [X] [Serverless React with AWS Amplify - The Complete Guide (Notetaker App)](https://www.udemy.com/course/serverless-react-with-aws-amplify/learn/lecture/13105906#overview)
-  * - [x] Repo [Link](https://github.com/caestrada/amplify-notetaker)
 - [X] [RayWenderlich - Your First Flutter App](https://www.raywenderlich.com/13739693-your-first-flutter-app)
   * Project [repo](https://github.com/caestrada/rw-bullseye-app)
 - [X] [The Complete 2020 Web Development Bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp/)
