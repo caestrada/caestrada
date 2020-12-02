@@ -15,7 +15,7 @@
 * [Fitness Mobile App]()
 
 ## Active
-- [ ] [Serverless React with AWS Amplify - The Complete Guide (Notetaker App)](https://www.udemy.com/course/serverless-react-with-aws-amplify/learn/lecture/13105906#overview)
+- [ ] [Serverless React with AWS Amplify - The Complete Guide](https://www.udemy.com/course/serverless-react-with-aws-amplify/learn/lecture/13105906#overview)
   * - [x] Repo [Notetaker App](https://github.com/caestrada/amplify-notetaker)
 
 
