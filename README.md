@@ -18,6 +18,7 @@
 - [ ] [Serverless React with AWS Amplify - The Complete Guide](https://www.udemy.com/course/serverless-react-with-aws-amplify/learn/lecture/13105906#overview)
   * - [x] [Notetaker App](https://github.com/caestrada/amplify-notetaker)
   * - [ ] [Marketplace App]()
+    * [Starter Repo](https://github.com/reedbarger/amplifyagora)
 
 
 
