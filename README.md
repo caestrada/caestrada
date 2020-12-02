@@ -17,14 +17,6 @@
 ## Active
 - [ ] [Serverless React with AWS Amplify - The Complete Guide (Notetaker App)](https://www.udemy.com/course/serverless-react-with-aws-amplify/learn/lecture/13105906#overview)
   * - [x] Repo [Notetaker App](https://github.com/caestrada/amplify-notetaker)
-- [ ] [CS106B Programming Abstractions](http://web.stanford.edu/class/cs106b/)
-  * Do problems in **C++** (if possible do them in **JavaScript**)
-  * Repo [link](https://github.com/caestrada/practicing-cpp/tree/master/cs106b)
-- [ ] [10 JS Projects in 10 Hours](https://www.youtube.com/watch?v=dtKciwk_si4&list=WL&index=2&t=83s)
-- [ ] [Intro to Next.js](https://hendrixer.github.io/nextjs-course/)
-  * [repo](https://github.com/caestrada/intro-to-nextjs)
-- [ ] [Cracking The Coding Interview 6th - C++](https://github.com/caestrada/cpp-cracking-the-coding-interview-th)
-- [ ] [Cracking The Coding Interview 6th - JavaScript](https://github.com/caestrada/js-cracking-the-coding-interview)
 
 
 
@@ -39,6 +31,15 @@
 - [ ] Frontend Masters - Form Handling in React Apps
 - [ ] Frontend Masters - Deno First Look
 - [ ] Frontend Masters - Functional JavaScript First teps
+- [ ] [CS106B Programming Abstractions](http://web.stanford.edu/class/cs106b/)
+  * Do problems in **C++** (if possible do them in **JavaScript**)
+  * Repo [link](https://github.com/caestrada/practicing-cpp/tree/master/cs106b)
+- [ ] [10 JS Projects in 10 Hours](https://www.youtube.com/watch?v=dtKciwk_si4&list=WL&index=2&t=83s)
+- [ ] [Intro to Next.js](https://hendrixer.github.io/nextjs-course/)
+  * [repo](https://github.com/caestrada/intro-to-nextjs)
+- [ ] [Cracking The Coding Interview 6th - C++](https://github.com/caestrada/cpp-cracking-the-coding-interview-th)
+- [ ] [Cracking The Coding Interview 6th - JavaScript](https://github.com/caestrada/js-cracking-the-coding-interview)
+
 
 ## DONE
 - [X] [RayWenderlich - Your First Flutter App](https://www.raywenderlich.com/13739693-your-first-flutter-app)
