@@ -10,8 +10,6 @@
 
 ![](https://komarev.com/ghpvc/?username=caestrada)
 
-## [2021](https://github.com/caestrada/2021)
-
 ## Projects
 * [Fitness Web App](https://github.com/caestrada/fitness-web)
 * [Fitness Mobile App]()
