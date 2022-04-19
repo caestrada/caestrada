@@ -3,6 +3,12 @@
 #### Tutorials
 Here is a list of tutorials I've done just to stay relevant.
 
+✅ - Completed
+
+🚧 - In Progress
+
+⚠️ - Todo
+
 ##### Web3
 * ✅ **2022.04.09**: [The Complete Guide to Fullstack Web3 Development](https://github.com/caestrada/The-Complete-Guide-to-Full-Stack-Web3-Development)
 
