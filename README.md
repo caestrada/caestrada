@@ -13,7 +13,7 @@ Here is a list of tutorials I've done just to stay relevant.
 
 ##### Web3
 * 🚧 **2022.04.15**: Buildspace - Solana Web3 App
-* 🚧 **2022.04.15**: 🏗 Scaffold-ETH
+* 🚧 **2022.04.15**: [🏗 Scaffold-ETH](https://github.com/caestrada/2022.04.19_scaffold-eth)
 * ✅ **2022.04.09**: [The Complete Guide to Fullstack Web3 Development](https://github.com/caestrada/The-Complete-Guide-to-Full-Stack-Web3-Development)
 * 🛑 **2022.01.06**: [Solidity, Blockchain, and Smart Contract Course - Beginner to Expert Python Tutorial]()
 
