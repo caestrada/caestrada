@@ -1,6 +1,7 @@
 ### 🍕 Hi there! I'm Carlos
 
 #### Tutorials
+Here are a list of tutorials I've done just to stay relevant.
 
 ##### Web3
 
