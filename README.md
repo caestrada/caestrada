@@ -12,7 +12,7 @@ Here is a list of tutorials I've done just to stay relevant.
 🛑 - On Hold
 
 ##### Web3
-[Learning Web3](https://github.com/caestrada/learning-web3) holds all web3 learning material.
+[Web3](https://github.com/caestrada/learning-web3) holds all web3 learning material.
 
 * 🚧 **2022.04.15**: Buildspace - Solana Web3 App
 * 🚧 **2022.04.15**: [🏗 Scaffold-ETH](https://github.com/caestrada/2022.04.20_scaffold-eth)
