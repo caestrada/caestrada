@@ -4,7 +4,7 @@
 * [Programming Abstractions in C++](https://github.com/caestrada/programming-abstractions-in-cpp-problems)
 * [Programming Abstractions in Rust](https://github.com/caestrada/programming-abstractions-in-rust-problems-)
 * [Programming Abstractions in JS](https://github.com/caestrada/-programming-abstractions-in-js-problems)
-* [Programming Abstractions in PY](https://github.com/caestrada/programming-abstractions-in-py-problems)
+* [Programming Abstractions in Python](https://github.com/caestrada/programming-abstractions-in-py-problems)
 
 
 🚧 Learning **Rust** by doing the official guide book ([The Rust Programming Language](https://doc.rust-lang.org/book/)). Here is my [repo](https://github.com/caestrada/the-rust-programming-language-book).
