@@ -7,6 +7,7 @@
 * [Programming Abstractions in Python](https://github.com/caestrada/programming-abstractions-in-py-problems)
 
 * 🚧 [CS106AX](https://github.com/caestrada/CS106AX)
+* 🚧 [CS106B](https://github.com/caestrada/CS106B)
 
 
 #### 🦀 Rust
