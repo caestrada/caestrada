@@ -16,3 +16,4 @@
 
 #### 🐍 Python
 * 🚧 [Roguelike Tutorial](https://github.com/caestrada/roguelike-tutorials)
+* ✅ [Building MicroGrad](https://github.com/caestrada/building-micrograd)
