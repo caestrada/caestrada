@@ -3,7 +3,9 @@
 ## Data Science
 Journey to learning ML/Deep Learning.
 
-- [ ] [CS109: Probability for Computer Scientists](https://github.com/caestrada/CS109-Probability-for-Computer-Scientists)
+### Core Knowledge
+
+- [ ] Stanford - [CS109: Probability for Computer Scientists](https://github.com/caestrada/CS109-Probability-for-Computer-Scientists)
 
 ### Side Knowledge
 
