@@ -7,7 +7,7 @@ Journey to learning ML/Deep Learning.
 
 🚧 Coursera - [Deep Learning Specialization](https://github.com/caestrada/Deep-Learning-Specialization)
 
-🚧 Stanford - [CS230: Deep Learning]()
+🚧 Stanford - [CS230: Deep Learning](https://github.com/caestrada/CS230-Deep-Learning/tree/main)
 
 🚧 Stanford - [CS109: Probability for Computer Scientists](https://github.com/caestrada/CS109-Probability-for-Computer-Scientists)
 
