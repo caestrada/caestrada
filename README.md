@@ -9,7 +9,9 @@ Journey to learning ML/Deep Learning.
 
 🚧 Stanford - [CS230: Deep Learning](https://github.com/caestrada/CS230-Deep-Learning/tree/main)
 
-🚧 Stanford - [CS109: Probability for Computer Scientists](https://github.com/caestrada/CS109-Probability-for-Computer-Scientists)
+🚧 fast.ai - [Practical Deep Learning for Coders](https://github.com/caestrada/Practical-Deep-Learning-for-Coders)
+
+🛑 Stanford - [CS109: Probability for Computer Scientists](https://github.com/caestrada/CS109-Probability-for-Computer-Scientists)
 
 ### Side Knowledge
 
