@@ -19,8 +19,6 @@ Journey to learning ML/Deep Learning.
  
 🚧 [My First PyTorch Model](https://github.com/caestrada/my-first-pytorch-model)
 
-## Design
-
 ## Software Dev
 
 🚧 [Trello Clone](https://github.com/caestrada/trello-clone)
